@@ -1,0 +1,15 @@
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/bin/Debug/net7.0/WeatherForecastConsole
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/bin/Debug/net7.0/WeatherForecastConsole.deps.json
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/bin/Debug/net7.0/WeatherForecastConsole.runtimeconfig.json
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/bin/Debug/net7.0/WeatherForecastConsole.dll
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/bin/Debug/net7.0/WeatherForecastConsole.pdb
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.csproj.AssemblyReference.cache
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.AssemblyInfoInputs.cache
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.AssemblyInfo.cs
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.csproj.CoreCompileInputs.cache
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.dll
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/refint/WeatherForecastConsole.dll
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.pdb
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/WeatherForecastConsole.genruntimeconfig.cache
+/Users/carolinandersson/Kod/Backend2/WeatherForecastConsole/obj/Debug/net7.0/ref/WeatherForecastConsole.dll
